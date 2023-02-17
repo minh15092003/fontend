@@ -1,0 +1,36 @@
+.host{
+    margin-left: 240px;
+    margin-top: 50px;
+  }
+  .lest{
+    margin-left: 1050px;
+    margin-top: -500px;
+    font-family: serif;
+  }
+  .cent{
+    margin-top: -600px;
+    margin-left: 20px;
+    color: red;
+    font-family: sans-serif;
+  }
+  .cover{
+    background-color:white;
+    margin-top: 100px;
+    margin-left: -100px;
+    width: 15em;
+    height: 20em;
+    position:relative ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cd-h2{
+    color: red;
+    margin-top: -80px;
+    
+  }
+  button{
+    text-decoration: none;
+  }
+   
+  

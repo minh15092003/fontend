@@ -1,0 +1,167 @@
+ 
+.Nav{
+    border:1px double azure;
+    margin-top: 1px;
+    margin-left: 50px;
+    margin-right:1230px;
+    background-color:rgb(208, 224, 238);
+    height:930px;
+    width: 240px;
+    padding: 0px;
+   
+}
+/* .Nav:hover{
+    background-color:rgb(228, 239, 239);
+} */
+.tools{
+    margin-left: 70px;
+    margin-top: 20px; 
+}
+.a{
+    font-family: Arial;
+    margin-top:5px;
+    margin-left: 35px;
+}
+h4{
+    font-family: Arial;
+    margin-left: 88px;
+    margin-top: -20px;
+}
+.gg{
+    list-style-type:none;
+    text-align: center;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none
+}
+ 
+.Container{
+    background-color: azure;
+    height: 170px;
+    border: 1px solid antiquewhite ;
+   margin-right:100px ;
+   margin-left:300px;
+   margin-top: -930px;
+   list-style-type: none;
+   border-radius: 10px;
+}
+ .Container:hover{
+    background-color: antiquewhite;
+ }
+.cd-Container{
+    margin-left: 20px;
+}
+.ds-menu li{
+     float: left;
+     padding-right: 50px;
+    list-style-type:none;
+    font-size: -10px;
+    margin-top: 50px;
+    margin-left: 80px;
+     
+}
+.EX{
+
+    border: 1px solid antiquewhite ;
+     height: 300px;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 700px;
+    background-color: azure;
+    width: 525px;
+    border-radius: 10px;
+
+}
+.EX:hover{
+    background-color: antiquewhite;
+}
+.cd-EX{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.RX{
+    border: 1px solid antiquewhite ;
+    height: 300px;
+    width: 570px;
+    margin-left: 830px;
+    margin-top: -302px;
+    margin-right: 100px;
+    background-color: azure;
+    border-radius: 10px;
+   
+}
+.RX:hover{
+    background-color: antiquewhite;
+}
+.cd-RX{
+    text-align: center;
+    margin-top: 150px;
+}
+.TX{
+    border: 1px solid antiquewhite ;
+    margin-left: 300px;
+    margin-right: 700px;
+    margin-top: 5px;
+    background-color: azure;
+    height: 300px;
+    width: 525px;
+    border-radius: 10px;
+}
+.TX:hover{
+    background-color: antiquewhite;
+}
+.cd-TX{
+    text-align: center;
+    margin-top: 150px;
+}
+.YX{
+    border: 1px solid antiquewhite ;
+    height: 300px;
+    width: 570x;
+    margin-left: 830px;
+    margin-top: -301px;
+    margin-right: 100px;
+    background-color: azure;
+    border-radius: 10px;
+}
+.YX:hover{
+    background-color: antiquewhite;
+}
+.cd-YX{
+    text-align: center;
+    margin-top: 150px;
+}
+ 
+.cd-Footer{
+ border: 1px solid antiquewhite ;
+margin-left: 300px;
+margin-top: 5px;
+margin-right: 100px;
+height: 140px;
+background: black;
+}
+
+.setting{
+    margin-left: 1350px;
+    margin-top:-30px;
+}
+.login{
+    margin-left: 3000px;
+    margin-top: 200px;
+}
+.cd-logo{
+    margin-left: 70px;
+    margin-top: -80px;
+}
+.cd-Footer{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ i{
+    margin-top: 20px;
+    margin-left: 1320px;
+ }
+ 
